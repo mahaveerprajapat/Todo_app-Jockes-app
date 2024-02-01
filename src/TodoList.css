@@ -1,0 +1,19 @@
+.Container{
+    border: 2px solid wheat;
+    border-radius: 40px;
+    padding: 30px 30px;
+    
+}
+
+button{
+    border-radius: 50px;
+    margin: 10px 10px;
+}
+
+/* input{
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 8px 8px;
+    font-weight: 800;
+} */
+
